@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\obj\Debug\Pregunta01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\obj\Debug\Pregunta01.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\obj\Debug\Pregunta01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\bin\Debug\Pregunta01.exe.config
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\bin\Debug\Pregunta01.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\bin\Debug\Pregunta01.pdb
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\obj\Debug\Pregunta01.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\ET\ET2\Pregunta01\obj\Debug\Pregunta01.pdb
